@@ -1,14 +1,29 @@
+name: 'FrenchTexan Photography '
+favicon: null
 layout_spectrum: 1
+typography_spectrum: 0.3763441
+title: More than the eye can see...
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5082967
-  lightness: 0.3060949
-  brandStrength: 0.827259
   brandColors:
     - '#E1E7F3'
     - '#010002'
     - '#CF0102'
     - '#010377'
     - '#2777CF'
+  brandStrength: 0.827259
+  lightness: 0.3060949
+  saturation: 0.5082967
   rhythmicContrast: 0.1415771
-typography_spectrum: 0.3763441
-name: 'FrenchTexan Photography '
+purpose: []
