@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[More than the eye can see...]]></title>
         <description><![CDATA[More than the eye can see...]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/frenchtexan-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 02:07:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 08 Mar 2016 02:37:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/frenchtexan-photography/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Me, Myself et Moi]]></title>
             <description><![CDATA[<article><h1>Me, Myself et Moi</h1><p>Cameras offer us a chance to change perspective, time lapse or even color range. I believe photography is about capturing what the eye wouldn't normally see. I grew up in France and am now living in Texas. In between, mostly with work, I was given the opportunity to visit over 40 countries on all continent, and that gave me plenty of opportunities to see and learn new things, and to get even more curious. This website is here to share with you, not what I see, but what my cameras can see, and hopefully let you enjoy some new sceneries...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a87e5332e9512cbd7d77dbbbf5925dbba0d278f7.png"></article>]]></description>
             <link>urn:uuid:95554a87-dbd5-4c5b-b1e1-8e065b6c6659</link>
             <guid isPermaLink="false">a96bca65-f112-4668-9274-bedf62505060</guid>
-            <pubDate>Tue, 08 Mar 2016 02:07:02 GMT</pubDate>
+            <pubDate>Tue, 08 Mar 2016 02:37:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
